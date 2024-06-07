@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=Cplusplus&logoColor=white" alt="C++">
 </p>
 
-<!-- GitHub Stats
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prvnX&show_icons=true&theme=radical" alt="Your GitHub Stats" />
@@ -26,7 +25,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prvnX&layout=compact&theme=radical" alt="Top Languages" />
 </p>
--->
 
 <!-- Contact -->
 <h2 align="center">Connect with me</h2>
