@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, It's <a href="https://github.com/prvnX">prvnX</a> 😉👋</h1>
 <h3 align="center">
-<img width="50%" src="https:[//https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.wouterbongaerts.com%2Fgif&psig=AOvVaw0Y6Sv1GfRqmAtELJ_mxem7&ust=1726109815548000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDByqTyuYgDFQAAAAAdAAAAABAi" alt="animatedgif_codeboy">
+<img width="50%" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="animatedgif_codeboy">
 </h3>
 <!-- About Me -->
   <h2 align="center">About Me</h2>
