@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=Cplusplus&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=Cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
 <h2 align="center">GitHub Stats</h2>
