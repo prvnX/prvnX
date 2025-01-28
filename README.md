@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=Cplusplus&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=Cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MATLAB-R2023b-blue?style=for-the-badge&logo=mathworks&logoColor=white">
 </p>
 
 <h2 align="center">GitHub Stats</h2>
